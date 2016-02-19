@@ -1,0 +1,1009 @@
+/***********************************************************
+           Main Page - Background and Header
+************************************************************/
+/*   3     #    */
+
+ * {
+     box-sizing: border-box;
+ } 
+
+body {
+     margin: 0;
+}
+
+.back {
+     font-size: 115px;
+     display: inline-block;
+     margin-top: -35px;
+}
+
+.back a:link,
+.back a:visited {
+     text-decoration: none;
+     color: #000;
+}
+
+.back a:hover {
+     color: #AB6900;
+}
+
+.main-body {
+     width: 100%;
+     margin: 0;
+     background-image: url("../img/tekstura-poloski-seryy-ugol.jpg");
+     background-attachment: fixed;
+     background-position: 50% 50%;
+}
+
+
+.header-box {
+     background-color: #B1E6FD;
+     height: 393px;
+     width: 1026px;
+     border-radius: 50px;
+     text-align: center;
+     margin: 17px auto 65px;
+     opacity: 0.8;
+}
+
+.logo {
+     float: left;
+     list-style: none;
+     list-style-position: inside;
+     display: inline-block;
+     margin: 0 49px 0 0;
+     padding: 0;
+}
+
+.logo img {
+     width: 324px;
+     border-radius: 50px;
+}
+
+.header-spree {
+     list-style: none;
+     list-style-position: inside;
+     margin: 29px 0 0 -31px;
+     padding: 0;
+     float: left;
+     display: inline-block;
+}
+
+.header-spree h1 {
+     font-size: 200px;
+     padding: 0 0 0 0;
+}
+
+.header-spree h2 {
+     font-size: 50px;
+}
+
+.header-spree h1,
+.header-spree h2 {
+     margin: 0;
+     display: inline-block;
+     text-shadow: 0 1px 0 #ccc,
+               0 2px 0 #c9c9c9,
+               0 3px 0 #bbb,
+               0 4px 0 #b9b9b9,
+               0 5px 0 #aaa,
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.1),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px 5px rgba(0,0,0,.2),
+               0 5px 10px rgba(0,0,0,.25),
+               0 10px 10px rgba(0,0,0,.2),
+               0 20px 20px rgba(0,0,0,.15);
+}
+
+
+
+
+
+
+
+
+/***********************************************************
+                    Main Page - Content
+************************************************************/
+/*   3     #    */
+
+.t-border {
+     display: block;
+     margin: 0 10% 0;
+     border-top: 7px solid;
+     border-radius: 40%;
+     border-top-color: #fff;
+     opacity: 0.7;
+}
+
+.main-content {
+     margin-top: 10px;
+}
+
+.main-content ul {
+     display: inline-block;
+     list-style-position: inside;
+     list-style: none;
+     width: 79.5%;
+     margin: 0 10% 0 10.5%;
+     padding: 0;
+}
+
+.main-content li,
+.location img {
+     margin-top: 52px;
+}
+
+.main-content img {
+     height: 100%;
+     width: 100%;
+}
+
+.spree {
+     margin-bottom: 10px;
+}
+
+.main-content .float-left {
+     float: left;
+     width: 47%;
+}
+
+.main-content .float-right {
+     float: right;
+     width: 47%;
+}
+
+.what-parkour {
+     margin-bottom: 0px;
+}
+
+
+
+
+
+
+
+
+
+/***********************************************************
+                         Footer
+************************************************************/
+/*   3     #    */
+
+
+.t-border-top-footer,
+.t-border-bottom-footer {
+     display: block;
+     border-top: 7px solid;
+     border-radius: 40%;
+     border-top-color: #fff;
+     opacity: 0.6;
+}
+
+.t-border-top-footer {
+     margin: 52px 10% 16px;
+
+}
+
+
+footer ul {
+     display: inline-block;
+     list-style: none;
+     list-style-position: inside;
+     width: 79.5%;
+     margin: 0 10% 0 10.5%;
+     padding: 0;
+}
+
+.footer-profile {
+     float: left;
+     width: 50%;
+     text-align: center;
+}
+
+.footer-contact {
+     float: right;
+     width: 50%;
+     text-align: center;
+}
+
+footer a {
+     text-decoration: none;
+     font-size: 50px;
+     color: #fff;
+}
+
+
+.t-border-bottom-footer {
+     margin: 16px 10% 16px;
+}
+
+
+
+
+
+
+
+
+/***********************************************************
+                      Spree History
+************************************************************/
+/*   3     #    */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***********************************************************
+                          Roots
+************************************************************/
+/*   3     #    */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***********************************************************
+                    What Is Parkour
+************************************************************/
+/*   3     #    */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***********************************************************
+                          Mark
+************************************************************/
+/*   3     #    */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***********************************************************
+                         Traveled
+************************************************************/
+/*   3     #    */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***********************************************************
+                         Misssion
+************************************************************/
+/*   3     #    */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***********************************************************
+                         Training
+************************************************************/
+/*   3     #    */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***********************************************************
+                        Locations
+************************************************************/
+/*   3     #    */
+
+.t-border-location {
+     display: block;
+     margin: 23px 20% 0;
+     border-top: 7px solid;
+     border-radius: 40%;
+     border-top-color: #000;
+}
+
+.location-body header h1 {
+     width: 62%;
+     margin: -21px 19% 0;
+     text-align: center;
+     font-size: 131px;
+     border-right: solid;
+     border-right-width: 4px;
+     border-left: solid;
+     border-left-width: 4px;  
+}
+
+.location-body header ul {
+     list-style: none;
+     display: inline-block;
+     width: 100%;
+     margin-bottom: -8px;
+     padding: 0;
+}
+
+.location-body .nav {
+     border-bottom: solid;
+     border-bottom-width: 4px;
+     border-top: solid;
+     border-top-width: 4px;
+     margin: -199px 20% 0;
+     padding-top: 183px;
+}
+
+.location-body .float-left {
+     float: left;
+}
+
+.location-body .float-right {
+     float: right;
+}
+
+.location-body .nav a {
+     text-decoration: none;
+     font-size: 40px;
+     color: #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+/***********************************************************
+                          Indoor
+************************************************************/
+/*   3     #    */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***********************************************************
+                           Indoor
+************************************************************/
+/*   3     #    */
+
+
+.location-body .ds {
+     margin: -6px 0 -8px;
+     text-decoration: none;
+     font-size: 40px;
+     color: #000;
+}
+
+.indoor-section {
+     margin: 90px 0 0;
+}
+
+.left-colume {
+     float: left;
+     width: 40%;
+     margin: 0 0 0 10%;
+     border-right: solid;
+     border-right-width: 2px;
+     border-left: solid;
+     border-left-width: 4px;
+}
+
+.right-colume {
+     float: right;
+     width: 40%;
+     margin: 0 10% 0 0;     
+     border-right: solid;
+     border-right-width: 4px;
+     border-left: solid;
+     border-left-width: 2px;
+}
+
+
+
+
+
+/***********************************************************
+                          Outdoor
+************************************************************/
+/*   3     #    */
+
+
+.location-body .ds {
+     margin: -6px 0 -8px;
+     text-decoration: none;
+     font-size: 40px;
+     color: #000;
+}
+
+.nav-outside ul {
+     list-style: none;
+     margin: 0 20%;
+     padding: 0;
+}
+
+.nav-outside li {
+     display: inline-block;
+}
+
+.center-right,
+.right {
+     float: right;
+}
+
+.center-left {
+     margin: ;
+}
+
+.center-right {
+     margin: ;
+}
+
+.center-left,
+.left {
+     float: left;
+}
+
+.nav-outside a {
+     text-decoration: none;
+     color: #000;
+     font-size: 30px;
+     text-align: center;
+}
+
+.nav-outside a:hover {
+     color: #AB6900;
+}
+
+.nav-outside .selected a {
+     color: #ED8926;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***********************************************************
+                         Profile
+************************************************************/
+/*   3     #    */
+
+.profile-header {
+     width: 80%;
+     margin: -90px 10% 0;
+     display: inline-block;
+}
+
+.profile-header section  {
+     display: inline-block;
+     text-align: center;
+     width: 100%;
+}
+
+.profile-header h1 {
+     font-size: 100px;
+     margin: 14px 0 14px 0;
+}
+
+.profile-header ul {
+     list-style: none;
+     display: inline-block;
+     width: 100%;
+     margin: 0;
+     padding: 0;
+}
+
+.profile-header li {
+     display: inline-block;
+}
+
+.members-profile {
+     float: left;
+     margin: 0 0 0 20%;
+}
+
+.create-profile {
+     float: right;
+     margin: 0 20% 0 0;
+}
+
+.profile-header a,
+.profile-header p {
+     text-decoration: none;
+     color: #000;
+     font-size: 30px;
+}
+
+.t-border-profile {
+     display: block;
+     margin: 0 20% 0;
+     border-top: 7px solid;
+     border-radius: 40%;
+     border-top-color: #000;
+     opacity: 0.7;
+}
+
+.main-profile-content {
+     width: 80%;
+     margin: 0 10% 0;
+}
+
+.main-profile-content p {
+     font-size: 25px;
+
+}
+
+
+
+
+
+
+
+
+/***********************************************************
+                        Members-list
+************************************************************/
+/*   3     #    */
+
+
+.profile-header .ds p {
+     margin: -4px 0 -10px 0;
+}
+
+
+.profile-nav {
+     width: 80%;
+     margin: 0 10%;
+     display: inline-block;
+}
+
+.profile-nav ul {
+     list-style: none;
+     display: inline-block;
+     width: 80%;
+     margin: 17px 10% 0;
+     padding: 0;
+     text-align: center;
+}
+
+.profile-nav li {
+     display: inline-block;
+     margin: 0 1.9230769%;
+     font-size: 26px;
+     font-weight: bold;
+}
+
+.profile-nav a:link,
+.profile-nav a:visited {
+     text-decoration: none;
+     color: #000;
+}
+
+.profile-nav a:hover {
+     color: #AB6900;
+}
+
+.section-nav {
+     margin: 0 10%;
+     display: inline-block;
+}
+
+.section-nav h1 {
+     display: block;
+     font-size: 30px
+}
+
+.section-nav ul {
+     display: block;
+}
+
+.section-nav li {
+     display: inline-block;
+     width: 100%;
+     font-size: 20px;
+     line-height: 30px;
+     letter-spacing: 3px;
+}
+
+.section-nav a {
+     text-decoration: none;
+     color: #000;
+}
+
+
+
+
+
+
+
+
+
+/***********************************************************
+                       Member-Profile
+************************************************************/
+/*   3     #    */
+
+.members-profile-body {
+     background-image: url("../img/profile-background.jpg");
+}
+
+.members-profile-header {
+     background-color: #B1E6FD;
+     margin: -125px 12.5% 31px;
+     padding: 17px 0;
+     opacity: 0.95;
+     border-radius: 50px 10px;
+     background-image: radial-gradient(circle , #B1E6FD 60%,  #E4F0FE);
+
+}
+
+.members-profile-header h1 {
+     font-size: 75px;
+     text-align: center;
+     margin: 0;
+     text-shadow: 0 1px 0 #ccc,
+          0 2px 0 #c9c9c9,
+          0 3px 0 #bbb,
+          0 4px 0 #b9b9b9,
+          0 5px 0 #aaa,
+          0 6px 1px rgba(0,0,0,.1),
+          0 0 5px rgba(0,0,0,.1),
+          0 1px 3px rgba(0,0,0,.3),
+          0 3px 5px rgba(0,0,0,.2),
+          0 5px 10px rgba(0,0,0,.25),
+          0 10px 10px rgba(0,0,0,.2),
+          0 20px 20px rgba(0,0,0,.15);
+}
+
+.profile-pic-info {
+     background-color: darkgray;
+     display: inline-block;
+     margin: 7px 12.5% 0;
+     border-radius: 10px 50px 0 0;
+     opacity: 0.97;
+
+}
+
+.profile-pic-info img {
+     width: 57.5%;
+     float: left;
+     margin-right: 1%;
+     border-radius: 10px 0 0 0;
+}
+
+.profile-pic-info ul {
+     display: inline-block;
+     width: 40.5%;
+     padding-left: 0;
+     float: right;
+     margin-left: 1%;
+     list-style-position: inside;
+
+}
+
+.profile-pic-info li,
+.profile-about li {
+     font-weight: bold;
+     font-size: 20px;
+}
+
+.profile-pic-info p,
+.profile-about-ul p {
+     margin: 4px 0 4px 19px;
+     font-size: 18px;
+}
+
+.profile-about {
+     background-color: lightgray;
+     display: inline-block;
+     margin: -4px 12.5% 0;
+     border-radius: 0 0 10px 50px;
+     opacity: 0.97;
+     width: 75%;
+}
+
+.profile-about ul {
+     width: 57.5%;
+     float: left;
+     margin: 0 1% 0 0%;
+     list-style-position: inside;
+     display: inline-block;
+     padding: 16px 0 0 2%;
+}
+
+.profile-about-text {
+     width: 40.5%;
+     float: right;
+     margin-left: 1%;
+}
+
+
+
+
+
+
+/***********************************************************
+                      Create-Profile
+************************************************************/
+/*   3     #    */
+
+.t-margin {
+     margin-top: 83px;
+}
+
+.info-needed {
+     margin-top: 90px;
+}
+
+.info-needed ol,
+.email {
+     width: 75%;
+     margin: 0 12.5%;
+}
+
+.email,
+.info-needed span p {
+     font-size: 30px
+}
+
+.info-needed ol p {
+     font-size: 25px;
+}
+
+.info-needed a {
+     text-decoration: none;
+}
+
+.info-needed span p {
+     width: 75%;
+     margin: 88px 12.5%;
+}
+
+
+
+
+
+
+
+
+/***********************************************************
+                         Contact
+************************************************************/
+/*   3     #    */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
