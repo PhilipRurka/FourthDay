@@ -1,0 +1,707 @@
+/***********************************************************
+                       Home Page
+************************************************************/
+/*   3     #    */
+
+
+@media screen and (max-width: 1047px) {
+
+	.main-body .logo {
+		display: none;
+	}
+
+	.header-box {
+		width: 80%;
+		margin: 31px auto 65px;
+		height: 248px;
+	}
+
+	.main-body h1 {
+		font-size: 150px;
+	}
+
+	.main-body h2 {
+		font-size: 37px;
+	}
+
+	.header-spree {
+		float: none;
+		margin: 0 auto;
+	}
+}
+
+@media screen and (max-width: 686px) {
+
+	.header-box {
+		width: 80%;
+		margin: 31px auto 65px;
+		height: 181px;
+	}
+
+	.main-body h1 {
+		font-size: 110px;
+	}
+
+	.main-body h2 {
+		font-size: 27px;
+	}
+}
+
+@media screen and (max-width: 515px) {
+
+	.header-box {
+		width: 80%;
+		margin: 31px auto 65px;
+		height: 152px;
+	}
+
+	.main-body h1 {
+		font-size: 90px;
+	}
+
+	.main-body h2 {
+		font-size: 22.5px;
+	}
+
+	.footer-profile,
+	.footer-contact {
+    	float: none;
+    	margin: 0 auto;
+        text-align: center;
+	}
+}
+
+
+
+
+
+/***********************************************************
+                          Spree
+************************************************************/
+/*   3     #    */
+
+
+@media screen and (max-width: 1307px) {
+
+	.spree .ct-nav-2 {
+		margin-top: -291px;
+		padding-top: 272px;
+	}
+
+	.spree .ct-h1 {
+		font-size: 104px;
+	}
+}
+
+@media screen and (max-width: 1040px) {
+	.spree .ct-h1 {
+		font-size: 78px;
+	}
+
+	.spree .ct-nav-2 {
+		margin-top: -229px;
+		padding-top: 208px;
+	}
+}
+
+@media screen and (max-width: 784px) {
+	.spree .ct-h1 {
+		font-size: 60px;
+	}
+
+	.spree .ct-nav-2 {
+		margin-top: -169px;
+		padding-top: 147px;
+	}
+}
+
+@media screen and (max-width: 606px) {
+	.spree .ct-h1 {
+		font-size: 60px;
+	}
+}
+
+@media screen and (max-width: 550px) {
+
+	.spree .ct-li-l,
+	.spree .ct-li-r {
+		float: none;
+		margin: 0 auto;
+		text-align: center;
+	}
+}
+
+@media screen and (max-width: 527px) {
+
+	.spree .ct-nav-2 {
+		margin-top: -226px;
+		padding-top: 205px;
+	}
+}
+
+
+@media screen and (max-width: 448px) {
+	.spree .ct-h1 {
+		font-size: 60px;
+	}
+
+	.spree .ct-a {
+		font-size: 35px;
+	}
+}
+
+
+
+
+/***********************************************************
+                          Roots
+************************************************************/
+/*   3     #    */
+
+@media screen and (max-width: 1675px) {
+
+	.roots-body .img-100 {
+		width: auto;
+	}
+}
+
+@media screen and (max-width: 1389px) {
+
+	.roots-body .ct-nav-11 {
+		margin-top: -344px;
+		padding-top: 361px;
+	}
+}
+
+@media screen and (max-width: 818px) {
+	.roots-body .ct-h1 {
+		font-size: 94px;
+		margin-top: -73px;
+		padding-top: 0;
+	}
+
+	.roots-body .ct-nav-11 {
+		margin-top: -207px;
+    	padding-top: 169px;
+	}
+}
+
+@media screen and (max-width: 596px) {
+
+	.roots-body .ct-h1 {
+		font-size: 60px;
+		margin-top: -75px;
+		padding-top: 0;
+	}
+
+	.roots-body .ct-nav-11 {
+		margin-top: -157px;
+    	padding-top: 149px;
+	}
+}
+
+
+/***********************************************************
+                      What Is Parkour
+************************************************************/
+/*   3     #    */
+
+@media screen and (max-width: 1578px) {
+
+	.w-pk .ct-nav-1 {
+		margin-top: -348px;
+		padding-top: 330px;
+	}
+}
+
+@media screen and (max-width: 968px) {
+
+	.w-pk .ct-h1 {
+		font-size: 113px;
+	}
+
+	.w-pk .ct-nav-1 {
+		margin-top: -292px;
+		padding-top: 269px;
+	}
+
+}
+
+@media screen and (max-width: 801px) {
+
+	.w-pk .ct-h1 {
+		font-size: 66px;
+	}
+
+	.w-pk .ct-nav-1 {
+		margin-top: -181px;
+		padding-top: 158px;
+	}
+}
+
+@media screen and (max-width: 670px) {
+
+	.w-pk .ct-li-l,
+	.w-pk .ct-li-r {
+    	float: none;
+    	margin: 0 auto;
+    	text-align: center;
+	}
+}
+
+
+
+/***********************************************************
+                      	    Mark
+************************************************************/
+/*   3     #    */
+
+@media screen and (max-width: 1676px) {
+
+	.mark .img-100 {
+		width: auto;
+	}
+}
+
+@media screen and (max-width: 1098px) {
+
+	.mark .ct-nav-22 {
+		margin-top: -487px;
+    	padding-top: 497px;
+	}
+}
+
+@media screen and (max-width: 905px) {
+
+	.mark .ct-h1 {
+		font-size: 85px;
+	}
+
+	.mark .ct-nav-22 {
+		margin-top: -225px;
+    	padding-top: 229px;
+	}
+}
+
+@media screen and (max-width: 717px) {
+
+	.mark .ct-nav-22 {
+		margin-top: -319px;
+    	padding-top: 319px;
+	}
+}
+
+@media screen and (max-width: 591px) {
+
+	.mark .ct-h1 {
+		font-size: 62px;
+	}
+
+	.mark .ct-nav-22 {
+		margin-top: -165px;
+    	padding-top: 159px;
+	}
+}
+
+@media screen and (max-width: 527px) {
+
+	.mark .ct-nav-22 {
+		margin-top: -234px;
+    	padding-top: 226px;
+	}
+}
+
+
+
+/***********************************************************
+                      	  Visited
+************************************************************/
+/*   3     #    */
+
+@media screen and (max-width: 1677px) {
+
+	.visited .img-100 {
+		width: auto;
+	}
+}
+
+@media screen and (max-width: 1389px) {
+
+	.visited .ct-nav-2 {
+		margin-top: -510px;
+    	padding-top: 500px;
+	}
+}
+
+@media screen and (max-width: 994px) {
+
+	.visited .ct-h1 {
+		font-size: 78px;
+	}
+
+	.visited .ct-nav-2 {
+		margin-top: -216px;
+    	padding-top: 193px;
+	}
+}
+
+@media screen and (max-width: 832px) {
+
+	.visited .ct-nav-2 {
+		margin-top: -305px;
+    	padding-top: 282px;
+	}
+}
+
+@media screen and (max-width: 538px) {
+
+	.visited .ct-h1 {
+		font-size: 50px;
+	}
+
+	.visited .ct-nav-2 {
+		margin-top: -200px;
+    	padding-top: 177px;
+	}
+
+	.visited .ct-li-l,
+	.visited .ct-li-r {
+		float: none;
+		margin: 0 auto;
+		text-align: center;
+	}
+}
+
+
+
+/***********************************************************
+                      	  Mission
+************************************************************/
+/*   3     #    */
+
+@media screen and (max-width: 1541px) {
+
+	.mission .img-100 {
+		width: auto;
+		height: 100%;
+	}
+}
+
+@media screen and (max-width: 755px) {
+
+	.mission .ct-h1 {
+		font-size: 70px;
+	}
+
+	.mission .ct-nav-1 {
+		margin-top: -109px;
+    	padding-top: 87px;
+	}
+}
+
+
+
+/***********************************************************
+                      	Training
+************************************************************/
+/*   3     #    */
+
+@media screen and (max-width: 1678px) {
+
+	.train .img-100 {
+		width: auto;
+	}
+}
+
+@media screen and (max-width: 862px) {
+
+	.train .ct-h1 {
+		font-size: 60px;
+	}
+
+	.train .ct-a {
+		font-size: 30px;
+	}
+
+	.train .ct-nav-1 {
+		margin-top: -96px;
+    	padding-top: 74px;
+	}
+}
+
+@media screen and (max-width: 562px) {
+
+	.train .ct-li-l,
+	.train .ct-li-r {
+		float: none;
+		margin: 0 auto;
+		text-align: center;
+	}
+}
+
+
+/***********************************************************
+                      	Locations
+************************************************************/
+/*   3     #    */
+
+@media screen and (max-width: 1095px) {
+
+	.location .ct-h1 {
+		font-size: 55px;
+	}
+
+	.location .ct-a {
+		font-size: 35px;
+	}
+
+	.location .ct-nav-1 {
+		margin-top: -92px;
+    	padding-top: 71px;
+    }
+
+    .nav-outside li:nth-child(odd) {
+    	float: left;
+    	margin-right: 11%;
+    }
+
+    .nav-outside li:nth-child(even) {
+    	float: right;
+    	margin-left: 11%;
+    }
+}
+
+@media screen and (max-width: 730px) {
+
+	.nav-outside li:nth-child(odd) {
+    	margin-right: 0;
+    }
+
+    .nav-outside li:nth-child(even) {
+    	margin-left: 0;
+    }
+}
+
+@media screen and (max-width: 547px) {
+
+	.nav-outside li:nth-child(1n) {
+		float: none;
+	}
+
+	.nav-outside ul {
+		text-align: center;
+
+	}
+}
+
+@media screen and (max-width: 530px) {
+
+	.location .ct-li-l,
+	.location .ct-li-r {
+		float: none;
+		margin: 0 auto;
+		text-align: center;
+	}
+}
+
+@media screen and (max-width: 444px) {
+
+	.location .ct-h1 {
+		font-size: 48px;
+	}
+}
+
+
+
+/***********************************************************
+                      	profile
+************************************************************/
+/*   3     #    */
+
+@media screen and (max-width: 788px) {
+
+	.profile-body .ct-li-l,
+	.profile-body .ct-li-r {
+		float: none;
+		margin: 0 auto;
+		text-align: center;
+		width: 100%
+	}
+}
+
+@media screen and (max-width: 531px) {
+
+	.profile-body h1 {
+		font-size: 79px;
+	}
+
+	.profile-header {
+		margin-top: -67px;
+	}
+}
+
+
+
+/***********************************************************
+               Create Profile / Members List
+************************************************************/
+/*   3     #    */
+
+@media screen and (max-width: 1284px) {
+
+/*****************
+  Create Profile
+  Members Profile
+*****************/
+
+	.create h1,
+	.profile-header h1 {
+		font-size: 70px;
+	}
+}
+
+@media screen and (max-width: 896px) {
+
+
+/*****************
+ Create Profile 
+*****************/
+
+	.create h1 {
+		font-size: 57px;
+	}
+
+	.create .ct-li-l,
+	.create .ct-li-r {
+		float: none;
+		margin: 0 auto;
+		text-align: center;
+		width: 100%;
+	}
+
+	.profile-about {
+		margin-bottom: 75px;
+	}
+
+	.profile-about-text,
+	.profile-about ul {
+		float: none;
+		width: 100%;
+		padding: 0;
+		text-align: center;
+		list-style: none;
+	}
+
+	.profile-about ul {
+		margin: 40px auto;
+
+	}
+
+	.profile-about-ul p {
+		margin: 0;
+	}
+
+	.profile-about-text {
+		margin: 0 auto;
+		padding: 20px 17px;
+		border-radius: 0 0 10px 50px;
+		background-color: darkgray;
+	}
+
+	.tm {
+		margin-top: 20px;
+	}
+
+	.profile-pic-info .bm {
+		margin-bottom: 20px;
+	}
+
+	.profile-pic-info ul,
+	.profile-pic-info img {
+		float: none;
+		margin: 0 auto;
+		text-align: center;
+		width: 100%
+	}
+
+	.profile-pic-info img {
+		border-radius: 10px 50px 0 0;
+
+	}
+
+/*****************
+  Members Profile
+*****************/
+
+	.members .ct-li-l,
+	.members .ct-li-r {
+		float: none;
+		margin: 0 auto;
+		text-align: center;
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 878px) {
+
+/*****************
+  Your Profile
+*****************/
+
+	.members-profile-header {
+		margin-top: -66px;
+	}
+
+	.members-profile-header h1 {
+		font-size: 58px;
+	}
+}
+
+	
+@media screen and (max-width: 580px) {
+
+/*****************
+  Create Profile
+  Members Profile
+*****************/
+
+	.profile-header h1 {
+		font-size: 50px;
+	}
+
+	.profile-header .ct-li-l p,
+	.profile-header .ct-li-r a {
+		font-size: 28px;
+	}
+
+	.section-nav {
+		margin: 18px auto;
+		text-align: center;
+		display: block;
+		width: 135px
+	}
+
+	.section-nav ul {
+		padding-left: 0;
+	}
+}
+
+
+
+
+/***********************************************************
+               Create Profile / Members List
+************************************************************/
+/*   3     #    */
+
+@media screen and (max-width: 1916px) {
+
+	.contact .img-100 {
+		width: auto;
+	}
+}
+
+
+
+
+
