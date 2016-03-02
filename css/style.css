@@ -625,9 +625,6 @@ footer a {
 
 
 
-
-
-
 /***********************************************************
                         Members-list
 ************************************************************/
@@ -715,8 +712,13 @@ footer a {
      color: #000;
 }
 
+.section-nav h1:nth-of-type(even) {
+     background-color: rgba(121,121,121,0.65);
+}
 
-
+.section-nav h1:nth-of-type(odd) {
+     background-color: rgba(173,170,170,0.65);
+}
 
 
 
